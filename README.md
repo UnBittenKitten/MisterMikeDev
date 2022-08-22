@@ -16,7 +16,7 @@
         style="padding: 25px 0"
     />
 </div>
-
+<br />
 <h1 align="center">Technologies I dominate.</h1>
 
 <div align="center">
