@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am MrMikeDev</h1>
 
-<h3 align="center">Web Developer 🌎 | JavaScript & TypeScript Developer 💙 | Discord Bot Developer 🤖</h3>
+<h3 align="center">Frontend Developer 🌎 | JavaScript & TypeScript Developer 💙 | Discord Bot Developer 🤖</h3>
 
 <div align="center">
     <li>🌎  I am from México.</li>
@@ -26,9 +26,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="Javascript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="Typescript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Boostrap" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="50" height="50" alt="Express" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgresSQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/sass-colored.svg" width="50" height="50" alt="Sass" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/premierepro-colored.svg" width="50" height="50" alt="PremierePro" />
@@ -39,9 +43,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/illustrator-colored.svg" width="50" height="50" alt="Illustrator" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/aftereffects-colored.svg" width="50" height="50" alt="AfterEffects" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="50" height="50" alt="NextJs" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" />
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Boostrap" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/graphql-colored.svg" width="50" height="50" alt="GraphQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/heroku-colored.svg" width="50" height="50" alt="Heroku" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
@@ -49,7 +50,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vuejs-colored.svg" width="50" height="50" alt="VueJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nuxtjs-colored.svg" width="50" height="50" alt="NuxtJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PhP" />
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgresSQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored.svg" width="50" height="50" alt="Rust" />
 </div>
