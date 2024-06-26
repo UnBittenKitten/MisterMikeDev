@@ -5,7 +5,7 @@
 
 # 💫 Sobre mí:
 
-- 🌎 Joven de 19 años, orgullosamente mexicano.
+- 🌎 Joven de 20 años, orgullosamente mexicano.
 - ⚛️ Desarrollador web frontend especializado en crear interfaces de usuario accesibles e intuitivas.
 - 🧑‍🎓 Estudiante universitario de Ingeniería en Computación.
 - 🤖 Apasionado por el desarrollo de bots para Discord y considerado experto en el tema.
